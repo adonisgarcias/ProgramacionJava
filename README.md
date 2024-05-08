@@ -1,6 +1,5 @@
 PROGRAMACIÓN EN AMBIENTES GRÁFICOS CON ACCESO A DATOS
 
-
 Este código Java es una aplicación de interfaz gráfica de usuario, que muestra un listado de clientes junto con sus foto.
 Aqui algunos funcionamiento y estructura del codigo: 
 
